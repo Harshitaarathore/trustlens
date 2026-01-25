@@ -78,5 +78,5 @@ Created in Table Editor with these columns:
 - Improve AI with more languages
 
 Team Nexus  
-@Nishika_dev & team  
+@nishikaJain , @komalgaur24 and @Harshitaarathore
 #LNMHacks #Web3 #AI #Supabase #Hackathon
