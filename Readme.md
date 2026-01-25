@@ -80,5 +80,3 @@ Created in Table Editor with these columns:
 Team Nexus  
 @Nishika_dev & team  
 #LNMHacks #Web3 #AI #Supabase #Hackathon
-
-Made with ❤️ in Basi, Rajasthan
