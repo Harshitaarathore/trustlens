@@ -86,9 +86,9 @@ Users can paste a community URL → AI evaluates risk signals → TrustLens gene
 - Creates transparency in community credibility
 - Enables token-based governance via $TLENS
 
---
+---
 
-🗺 Roadmap
+## 🗺 Roadmap
 
 - Deploy frontend to Vercel
 - Move to Monad mainnet
@@ -96,7 +96,11 @@ Users can paste a community URL → AI evaluates risk signals → TrustLens gene
 - Multi-language AI support
 - Advanced bot-detection heuristics
 
-👥 Team Nexus
+
+---
+
+
+## 👥 Team Nexus
 
 This project was collaboratively developed for LNMHacks 2026.
 Contributors :
