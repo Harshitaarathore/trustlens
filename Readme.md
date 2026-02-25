@@ -3,10 +3,8 @@ AI + Web3 app to verify Telegram, Discord, WhatsApp & Instagram groups for scams
 Built by Team Nexus for #LNMHacks 2026
 
 ## 🚀 Quick Demo Links
-- Live Preview (NoahAI generated): [add link if you deployed to Vercel/Netlify]
-- Supabase Project Dashboard: (private – screenshots below)
-- $TLENS Token on Solana (CyreneAI launch): [paste solscan.io link or tx]
-- Monad Testnet Contract: [paste contract address or explorer link if deployed]
+- Supabase Project
+- $TLENS Token on Solana (CyreneAI launch)
 
 ## What TrustLens Does
 Paste a group URL → AI analyzes messages for bots/scams → gives trust score (0–100) + spam tier warning:  
