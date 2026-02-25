@@ -89,15 +89,17 @@ Users can paste a community URL → AI evaluates risk signals → TrustLens gene
 --
 
 🗺 Roadmap
-Deploy frontend to Vercel
-Move to Monad mainnet
-Add $TLENS staking
-Multi-language AI support
-Advanced bot-detection heuristics
+
+- Deploy frontend to Vercel
+- Move to Monad mainnet
+- Add $TLENS staking
+- Multi-language AI support
+- Advanced bot-detection heuristics
 
 👥 Team Nexus
+
 This project was collaboratively developed for LNMHacks 2026.
-Contributors
-Nishika Jain ( @nishikaJain )
-Harshita Rathore (@Harshitaarathore)
-Komal Gaur (@komalgaur24)
+Contributors :
+- Nishika Jain ( @nishikaJain )
+- Harshita Rathore (@Harshitaarathore)
+- Komal Gaur (@komalgaur24)
